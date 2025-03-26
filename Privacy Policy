@@ -1,0 +1,42 @@
+### 1. **Information We Collect**
+We collect the following types of data:
+- **User Information:** Discord user ID, username, and discriminator.
+- **Server Information:** Server ID, server name, and bot permissions.
+- **Interaction Data:** Commands used, timestamps, and preferences.
+- **Moderation Logs (if applicable):** Bans, kicks, mutes, and warnings.
+
+We **do not** collect personal messages, passwords, or sensitive personal information.
+
+### 2. **How We Use Your Data**
+We use collected data to:
+- Provide security features and bot functionalities.
+- Monitor and prevent abuse or misuse of the bot.
+- Maintain necessary logs for moderation and security purposes.
+
+### 3. **Data Sharing & Disclosure**
+We **do not** sell, rent, or share user data except in the following cases:
+- To comply with legal requirements.
+- To prevent fraud, abuse, or malicious activities.
+- If explicit consent is provided by the user.
+
+### 4. **Data Retention & Removal**
+- Data is stored only as long as necessary for the bot’s functionality.
+- Users can request data removal via **.setup** or contact us at **https://discord.com/invite/8SGBpdBhCq**.
+
+### 5. **Security Measures**
+We implement industry-standard security measures, including:
+- Secure data storage.
+- Limited access to user data.
+- Regular updates and security audits.
+
+### 6. **Third-Party Services**
+The bot interacts with Discord APIs and possibly other services. We are not responsible for their data practices.
+
+### 7. **Changes to the Privacy Policy**
+We may update this policy at any time. Continued use of the bot means you accept the revised policy.
+
+### 8. **Contact Information**
+For any questions regarding our Terms of Service or Privacy Policy, contact us:
+- **Discord Server:** https://discord.com/invite/8SGBpdBhCq
+- **Email:** hustlwithshubham@gmail.com
+
